@@ -14,7 +14,7 @@ from m8n.config import BOT_NAME
 @Client.on_callback_query(filters.regex("cbhome"))
 async def cbhome(_, query: CallbackQuery):
     await query.edit_message_text(
-        f""" ‹ مرحبا بك عزيزي في بوت **{BOT_NAME}**
+        f""" ‹  ابو صكر مرحبا بك عزيزي في بوت **{BOT_NAME}**
 
 - اضغط على زر ‹ الاوامر › لمعرفة الأوامر ›
 
