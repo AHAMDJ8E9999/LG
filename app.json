@@ -1,7 +1,7 @@
 {
-    "name": "سورس ميوزك فريدوم",
+    "name": "سورس ميوزك ابو صكر ",
     "description": "سورس فريدوم لتشغيل الاغاني , رائع انت تستخدم احدث اصدار !",
-    "logo": "https://te.legra.ph/file/4807752a011965b771900.jpg",
+    "logo": "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/STKR2/LG",
     "stack": "container",
@@ -13,7 +13,7 @@
         "OWNER_ID": {
             "description": "اكتب ايدي مالك البوت ، او اتركها كما هي",
             "required": true,
-            "value": "1854384004"
+            "value": "6189288231"
         },
         "ASSID": {
             "description": "اكتب ايدي حساب المساعد ",
@@ -23,7 +23,7 @@
         "BG_IMG": {
             "description": "يفضل تركها كما هي ، ضع هنا رابط صورة تلكراف يضهر عند تشغيل الاغنية ",
             "required": true,
-            "value": "https://graph.org/file/061951daec85b0f94b83c.jpg"
+            "value": "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg"
         },
         "ASSNAME": {
             "description": "اكتب هنا اسم حساب المساعد",
@@ -67,7 +67,7 @@
         },
         "START_PIC": {
             "description": "ضع رابط صورة تلكراف يضهر لكليشة ستارت",
-            "value": "https://graph.org/file/8882cbd7cc786826d9ecb.jpg",
+            "value": "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg",
             "required": true
             
         },
@@ -84,7 +84,7 @@
         "SUDO_USERS": {
             "description": "اكتب هنا ايديات المطورين او اتركها كما هي .",
             "required": true,
-            "value": "1854384004"
+            "value": "6189288231"
         },
         "BOT_TOKEN": {
             "description": "اكتب توكن البوت ",
