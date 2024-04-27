@@ -2,7 +2,7 @@ import sys
 import traceback
 from functools import wraps
 from pyrogram import Client
-from m8n.config import OWNER_ID
+from m8n.config import OWNER_ID"6189288231"
 
 
 def split_limits(text):
@@ -45,7 +45,7 @@ def capture_err(func):
                 ),
             )
             for x in error_feedback:
-                await Client.send_message(OWNER_ID, x)
+                await Client.send_message(OWNER_ID,"6189288231" x)
             raise err
 
     return capture
