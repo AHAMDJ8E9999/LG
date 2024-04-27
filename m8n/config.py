@@ -1,5 +1,5 @@
-# Created By @xl444
-# Copyright By watan
+# Created By @Xs_UB
+# Copyright By HMD
 
 from os import getenv
 
@@ -9,32 +9,32 @@ load_dotenv()
 
 que = {}
 admins = {}
-SESSION_NAME = getenv("SESSION_NAME", "BAB70I9bwA6g0NCWID3a_DefS11D4z8zo4CKkjq43ZKOLuUOeAgN6jIQvIygoCyqiqqF-gYuIoguooJB1SHyi27az1BxgQQooXUFDoh6jPKcZpIJlXvJ6NQp-lWCnMRy7iaZvZAnFr7KJ-n9ozY4BffbDW-qnbVRsHz8Io9tCmk5mm8-ueNzmr8Jk4yjYGm15AXHSLAims_tlULo_yWBFczMIzfoGv8ZydGar2qm2Sqd5V36nwdsM56GufFNH82UcOsbXejze3w6uexo1GDL-rZpuNnkaRLqAc6hZeh1Y_f-Qv5Kdhquy-qeHcNoXYRtuHHGkxTEh_YN_BpM7yEhIdP7AAAAAWIm-aQA")
-BOT_TOKEN = getenv("BOT_TOKEN", "5204315005:AAGJ_nEnLTVFTDz_q4orVZCwrCirzBF-vCY")
+SESSION_NAME = getenv("SESSION_NAME", "AgBlr2YmD_wqTthYWWvi5aadUMBdSnoQCHoMsrcm-YkO6yRqg8VBmVRzDWDa-t_zYGur_iS4YUv3bTS4w1WKsH5u4tZhyBg4zns7shQw_p04v0w1F0Ciq59QeWae07cN2cdFdK3J2lUnt6V3bItH60f4PRBesVX1RNosyMb_Lwv1g43yNryHILdq3wzXqaxt_i96C7lfJMr1qlpFELBK0X7dyvhsbkClnPESnlyzt5gINOgeK5IDWQQmKULuAJoqWhNX5b07fN64ng1VvU7rG-hC2vxjz7VP1lGCM5jCEhcniiTwURwbMToa_9Oa0WFU5M_676DtMgyz3CEPketSlGN_AAAAAYaW_ogA)
+BOT_TOKEN = getenv("BOT_TOKEN", "7103953071:AAEYP7ZFqQzZe6TwsBEDRD4uYYf4iANHpF4")
 BOT_NAME = getenv("BOT_NAME", "bot")
 BOT_USERNAME = getenv("BOT_USERNAME", "Saiadjabot")
-ASSID = int(getenv("ASSID", "5941688740"))
+ASSID = int(getenv("ASSID", "6189288231)
 ASSNAME = getenv("ASSNAME", "Kasijekg")
 ASSUSERNAME = getenv("ASSUSERNAME", "Kasijekg")
 
-BOT_ID = int(getenv("BOT_ID", "5204315005"))
+BOT_ID = int(getenv("BOT_ID", "7103953071)
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/STKR2/LG")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://veez:mega@cluster0.heqnd.mongodb.net/veez?retryWrites=true&w=majority")
-API_ID = int(getenv("API_ID", "8934899"))
-API_HASH = getenv("API_HASH", "bf3e98d2c351e4ad06946b4897374a1e")
-OWNER_ID = int(getenv("OWNER_ID", "1854384004"))
-UPDATE = getenv("UPDATE", "xl444")
-SUPPORT = getenv("SUPPORT", "xl444")
+API_ID = int(getenv("API_ID", "29246569)
+API_HASH = getenv("API_HASH", "a6a0466b72d76a8fd6814cd84b750622)
+OWNER_ID = int(getenv("OWNER_ID", "6189288231)
+UPDATE = getenv("UPDATE", "O_U_Q1)
+SUPPORT = getenv("SUPPORT", "O_U_Q1)
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "999"))
 CMD_MUSIC = list(getenv("CMD_MUSIC", ". / ! + - @ # $").split())
-BG_IMG = getenv("BG_IMG", "https://te.legra.ph/file/466de30ee0f9383c8e09e.jpg")
+BG_IMG = getenv("BG_IMG", "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg")
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1854384004").split()))
-START_PIC = getenv("START_PIC", "https://graph.org/file/8882cbd7cc786826d9ecb.jpg")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "rr8r9")
-IMG_1 = getenv("IMG_1", "https://graph.org/file/475127193de2444183fd4.jpg")
-IMG_2 = getenv("IMG_2", "https://graph.org/file/8882cbd7cc786826d9ecb.jpg")
-IMG_3 = getenv("IMG_3", "https://graph.org/file/8882cbd7cc786826d9ecb.jpg")
-IMG_4 = getenv("IMG_4", "https://graph.org/file/8882cbd7cc786826d9ecb.jpg")
+START_PIC = getenv("START_PIC", "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Xs_UB)
+IMG_1 = getenv("IMG_1", "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg")
+IMG_2 = getenv("IMG_2", "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg")
+IMG_3 = getenv("IMG_3", "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg")
+IMG_4 = getenv("IMG_4", "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg")
