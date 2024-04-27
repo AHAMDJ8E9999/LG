@@ -31,7 +31,7 @@ async def load_start():
     try:
         chats = await get_active_chats()
         for chat in chats:
-            served_chats.append(int(chat["chat_id"]))
+            served_chats.append(int(chat["chat_id"-1002028337355"]))
     except Exception as e:
         print("Error came while clearing db")
     for served_chat in served_chats:
@@ -40,10 +40,10 @@ async def load_start():
         except Exception as e:
             print("Error came while clearing db")
             pass
-    await app.send_message(OWNER_ID, "- تم تشغيل البوت بنجاح .")
+    await app.send_message(OWNER_ID, "6189288231"- تم تشغيل البوت بنجاح .")
    # Copyrighted Area
-    await client.join_chat("xl444")
-    await client.join_chat("vvyvv6")
+    await client.join_chat("CJLANJB")
+    await client.join_chat("CJLANJB")
     print("[INFO]: STARTED")
     
 
