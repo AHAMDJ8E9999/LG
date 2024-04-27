@@ -1,6 +1,6 @@
 {
     "name": "سورس ميوزك ابو صكر ",
-    "description": "سورس فريدوم لتشغيل الاغاني , رائع انت تستخدم احدث اصدار !",
+    "description": "سورس ابو صكر  لتشغيل الاغاني , رائع انت تستخدم احدث اصدار !",
     "logo": "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/STKR2/LG",
@@ -48,22 +48,22 @@
         "SUPPORT": {
             "description": "اكتب هنا قناة الدعم او اتركها كما هي",
             "required": true,
-            "value": "xl444"
+            "value": "O_U_Q1"
         },
         "UPDATE": {
             "description": "اكتب هنا قناة المطور او اتركها كما هي",
             "required": true,
-            "value": "xl444"
+            "value": "O_U_Q1"
         },
         "OWNER_USERNAME": {
             "description": "اكتب هنا يوزر المطور او المالك",
             "required": true,
-            "value": "RR8R9"
+            "value": "O_U_Q1"
         },
         "BOT_NAME": {
             "description": "اكتب هنا اسم بوتك او اتركها كما هي",
             "required": true,
-            "value": "freedom"
+            "value": "ابو صكر "
         },
         "START_PIC": {
             "description": "ضع رابط صورة تلكراف يضهر لكليشة ستارت",
